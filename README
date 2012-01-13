@@ -1,0 +1,10 @@
+taxi fare calculator written in java
+Input parameters: 	Journey distance (in km)
+					Journey duration (in minutes, taken from Google Maps directions API)
+					Current time (in milliseconds)
+
+Output parameters: An array of strings giving the following information:
+					Minimum journey time (same as Journey duration input parameter)
+					Minimum journey fare 
+					Maximum journey time
+					Maximum journey fare
