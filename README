@@ -1,4 +1,4 @@
-taxi fare calculator written in java
+taxi fare calculator written in java - used in an android app built as part of a college project
 Input parameters: 	Journey distance (in km)
 					Journey duration (in minutes, taken from Google Maps directions API)
 					Current time (in milliseconds)
